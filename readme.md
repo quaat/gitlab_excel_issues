@@ -18,9 +18,9 @@ Generate GitLab issues from an Excel document. This Python command-line utility 
 	GITLAB_URL=https://your.gitlab.instance.com
 	GITLAB_API_KEY=your_private_token
 	GITLAB_PROJECT_ID=your_project_id
-```
-Replace the values with your own GitLab instance URL, private token, and project ID.
+	```
 
+Replace the values with your own GitLab instance URL, private token, and project ID.
 
 
 ## Command-line Arguments
